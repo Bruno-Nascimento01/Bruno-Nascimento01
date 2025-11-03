@@ -35,5 +35,4 @@ Conecte-se comigo no LinkedIn ou email! 👇
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
-<img<img width="2816" height="1536" alt="Gemini_Generated_Image_q1zwz9q1zwz9q1zw" src="https://github.com/user-attachments/assets/d5545c44-065e-421a-9a6f-8e906acaba16" />
- src="" alt="Banner Abstrato Verde e Marrom" width="100%">
+
